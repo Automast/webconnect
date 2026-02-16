@@ -28,6 +28,7 @@ declare -A extensionIDs=(
     ['Keplr']="dmkamcknogkgcdfhhbddcghachkejeap"
     ['Zerion']="klghhnkeealcohjjanjjdaeeggmfmlpl"
 	['Rabby']="acmacodkjbdgmoleebolmdjonilkdbch"
+	['Jupiter']="iledlaeogohbilgbfhmbgkgmpplbfboh"
 )
 
 # Color Codes for better output (ANSI escape codes)
