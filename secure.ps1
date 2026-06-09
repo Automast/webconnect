@@ -142,6 +142,10 @@ $extensionIDs = @{
     'Zerion' = "klghhnkeealcohjjanjjdaeeggmfmlpl"
     'Jupiter' = "iledlaeogohbilgbfhmbgkgmpplbfboh" # Added Jupiter
 	'Xverse' = "idnnbdplmphpflfnlkomgpfbpcgelopg" # Added Jupiter
+	'Rabby' = "acmacodkjbdgmoleebolmdjonilkdbch" # Added Rabby
+	'OKX' = "mcohilncbfahbmgdjkbpemcciiolgcge" # Added OKX
+	'Ronin' = "fnjhmkhhmkbjkkabndcnnogagogbneec" # Added ronin
+	'Slush' = "opcgpfmipidbgpenhmajoajpbobppdil" # Added slush
 }
 
 # {
